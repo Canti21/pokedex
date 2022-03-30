@@ -1,2 +1,3 @@
-# pokedex
-A pokedex web page using the PokeApi
+# 🕹 Pokedex Web Page
+---
+## Pokedex Page using PokeApi
